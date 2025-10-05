@@ -190,3 +190,5 @@ Repository maintainers can publish a new version of changed packages to npm.
 4. Run the [release action](https://github.com/web-infra-dev/rsbuild/actions/workflows/release.yml) to publish packages to npm.
 5. Merge the release pull request to `main`.
 6. Generate the [release notes](https://github.com/web-infra-dev/rsbuild/releases) via GitHub, see [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
+
+<!-- Auto-update: 2025-10-05T11:18:36.273010 -->
